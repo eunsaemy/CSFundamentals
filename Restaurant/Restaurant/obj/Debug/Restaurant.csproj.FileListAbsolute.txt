@@ -1,0 +1,8 @@
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\saemy\Desktop\C#\Fundamentals\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
